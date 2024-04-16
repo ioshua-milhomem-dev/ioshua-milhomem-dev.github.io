@@ -1,5 +1,5 @@
 body{
-    background-color: #212529;
+    background-color: #16191d;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
@@ -19,12 +19,12 @@ header img{
     width: 150px;
     height: 150px;
     border-radius: 50% ;
-    border: 5px solid #ced4da;
+    border: 5px solid #8ce99a;
 
    
 }
 h1{
-    color: #ced4da;
+    color: #8ce99a;
 }
 .center{
    text-align: center;
@@ -42,4 +42,7 @@ footer a{
 }
 nav a:hover{
 color: #484e57;
+}
+h2{
+    color: #d3f9d8;
 }
